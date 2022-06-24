@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Should Your Business Try Unlimited Graphic Design?" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          If you own any type of business, chances are you need to get your graphic designs done on a regular basis. And you’re looking for efficient ways to do this, without breaking the bank. That’s why you might want to try unlimited graphic design – they’re all about fulfilling the design requirements you have, with consistent turnarounds, at a flat monthly rate.</code>
         </p>
       </main>
 
